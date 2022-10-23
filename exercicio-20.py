@@ -1,5 +1,6 @@
 """
-
+Escreva um programa que leia números inteiros no intervalo de [0, 50] e os armazene em um vetor
+com 10 posições. Preencha um segundo vetor apenas com os númeres ímpares do primeiro vetor. 
 """
 
 from random import randint as Rd
