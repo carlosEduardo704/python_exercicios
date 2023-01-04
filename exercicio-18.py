@@ -23,8 +23,7 @@ try:
 
         print(
             f'Os números são: {vetor}\n'
-            f'Os múltiplos do número {escolha} são: {multiplos}'
-)
+            f'Os múltiplos do número {escolha} são: {multiplos}')
+
 except:
     print('Valor inválido!')
-

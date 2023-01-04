@@ -10,5 +10,4 @@ vetor = [R(1, 5000) for numero in range(10)]
 
 print(f'O vetor é: {vetor}\n'
       f'O maior elemento do vetor é: {max(vetor)}\n'
-      f'A posição do maior elemento do vetor é: {vetor.index(max(vetor))}'
-)
+      f'A posição do maior elemento do vetor é: {vetor.index(max(vetor))}')

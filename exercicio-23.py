@@ -12,11 +12,10 @@ vetor2 = [rd(1, 1000) for j in range(5)]
 
 produto_escalar = 0
 
-for i in range(5):
+for i in range(len(vetor1)):
     produto_escalar += vetor1[i] * vetor2[i]
 
 
 print(f'O primeiro vetor é: {vetor1}\n'
       f'O segundo vetor é: {vetor2}\n'
       f'O produto escalar é: {produto_escalar}')
-

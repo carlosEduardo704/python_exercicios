@@ -26,6 +26,4 @@ def quantidade_negarivos(x):
 
 print(f'O vetor é: {vetor}\n'
       f'A quantidade de números negativos é: {quantidade_negarivos(vetor)}\n'
-      f'A soma dos números positivos é: {soma_positivos(vetor)}'
-
-)
+      f'A soma dos números positivos é: {soma_positivos(vetor)}')
